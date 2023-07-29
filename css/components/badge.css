@@ -9,3 +9,11 @@
   color: white;
   font-weight: 600;
 }
+
+.reddot {
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  right: -6px;
+  bottom: 28px;
+}
